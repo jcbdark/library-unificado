@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/library-unificado/eureka-main/eureka (1)/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/library-unificado/user-service-main/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/library-unificado/library-nuevo-main/library-nuevo/library-nuevo/library/pom.xml" />
+        <option value="$PROJECT_DIR$/CustomerService/pom.xml" />
+        <option value="$PROJECT_DIR$/library-unificado/CustomerService/CustomerService/pom.xml" />
+        <option value="$PROJECT_DIR$/library-unificado/ProductService/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/library-unificado/eureka/eureka (1)/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/library-unificado/SaleService/SaleService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

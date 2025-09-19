@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CustomerService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CustomerService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/library-unificado/CustomerService/CustomerService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/library-unificado/ProductService/ProductService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/library-unificado/SaleService/SaleService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/library-unificado/eureka/eureka (1)/eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/library-unificado/library-nuevo-main/library-nuevo/library-nuevo/library/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/library-unificado/user-service-main/user-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
